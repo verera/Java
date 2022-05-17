@@ -51,7 +51,7 @@ public class Operator {
          * !   !(x < 5 && x < 10)
          */
         
-         /**
+        /**
          * Operator Ternary
          */
         int time = 20;
