@@ -8,7 +8,7 @@ public class BreakContinue {
     public static void main(String[] args) {
         
         /**
-         * For
+         * For Break/Countinue
          */
         for (int i = 0; i < 10; i++) {
             if(i == 5){
@@ -22,6 +22,31 @@ public class BreakContinue {
                 continue;
             }
             System.out.println("Counter -> " + j);
+        }
+
+        /**
+         * While Break/Countinue
+         */
+
+        int a = 0;
+
+        while(a < 10){
+            if(a == 5){
+                break;
+            }
+            System.out.println("Counter -> " + a);
+            a++;
+        }
+
+        int b = 0;
+        
+        while(b < 10){
+            if(b == 5){
+                b++;
+                continue;
+            }
+            System.out.println("Counter -> " + b);
+            b++;
         }
     }
 }
