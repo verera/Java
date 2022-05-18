@@ -1,4 +1,4 @@
-package Function;
+package Functions;
 
 public class Methods {
     
