@@ -1,6 +1,6 @@
-# Java
+## Java
 
-## Apa itu Java?
+### Apa itu Java?
 - Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.
 - Paradigma: Multiparadigma: generik, OOP (Pemrograman berbasis kelas), fungsional, imperatif, reflektif, bersamaan.
 - Kegunaan Java
@@ -12,7 +12,7 @@
     - permainan
     - Dan banyak lagi!
 
-## Mengapa Menggunakan Java?
+### Mengapa Menggunakan Java?
 - Java dapat bekerja pada platform yang berbeda (Windows, Mac, Linux, Raspberry Pi, dll).
 - open-source dan gratis.
 - aman, cepat, dan kuat.
