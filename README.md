@@ -1,4 +1,4 @@
-## Java
+# Java
 
 ### Apa itu Java?
 - Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.
