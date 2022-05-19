@@ -21,3 +21,5 @@ Repositori ini berisikan berbagai macam source code program seperti algoritma, b
 - Java adalah bahasa berorientasi objek yang memberikan struktur yang jelas untuk program dan memungkinkan kode untuk digunakan kembali.
 - Java dekat dengan C++ dan C# , memudahkan programmer untuk beralih ke Java atau sebaliknya.
 - memiliki dukungan komunitas yang sangat besar (puluhan juta pengembang).
+
+Saya sangat senang apabila anda ingin berkontribusi di repositori Java ini. Sebelum itu, silakan baca terlebih dahulu [peraturan dan pedoman](https://github.com/prayogaekaardiansyah/Java/blob/master/CONTRIBUTING.md) yang telah saya siapkan. Terima kasih!
