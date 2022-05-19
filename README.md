@@ -1,6 +1,6 @@
 # Java
 
-Repositori ini berisikan berbagai macam source code program seperti struktur data, algoritma, basic, oop, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
+Repositori ini berisikan berbagai macam source code program seperti algoritma, basic, methods, oop, struktur data, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Java.
 
 ### Apa itu Java?
 - Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.
