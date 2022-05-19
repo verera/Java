@@ -13,7 +13,7 @@ persyaratan perubahan atau penambahan kode sebagai berikut:
 - gunakan **snake_case**, **camelCase**, atau **PascalCase** dalam menamakan Variabel p.s : Var. di Java bersifat **case sensitive**
 - gunakan **PascalCase** dalam pebuatan file dan package **(jangan menggunakan dash "-" atau underscore "_")**
 
-contoh penggunaan variabel yang baik pada java,
+- contoh penggunaan variabel yang baik pada java,
 saya menyarankan agar menggunakan struktur kode variable pada java seperti di bawah ini:
 ```java
 public class NamaFile {
@@ -24,7 +24,7 @@ public class NamaFile {
     }
 }
 ```
-contoh penggunaan nama class yang baik pada java,
+- contoh penggunaan nama class yang baik pada java,
 saya menyarankan agar menggunakan untuk kapitalisasi seperti di bawah ini:
 ```java
 class NamaFile{
