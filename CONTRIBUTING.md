@@ -45,7 +45,7 @@ git push origin <nama branch anda>
 - Lakukan push ke branch anda dan kemudian `open` `pull request`
 - Saran pesan commit:
     - `add:` untuk menambahkan source code atau dokumentasi
-    - `update:` untuk mengubah source code atau dokumentasi
+    - `docs:` untuk mengubah source code atau dokumentasi
     - `fix:` untuk memperbaiki masalah pada source code atau dokumentasi
 - Jika ada kendala atau masalah dalam pull request, anda bisa laporkan masalah pada [issue](https://github.com/prayogaekaardiansyah/Java/issues)
 
