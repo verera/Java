@@ -18,3 +18,4 @@
 ## Lingkungan
 
 - OS = `Windows`, `Mac OS`, `Linux`
+- Java = `Version`
