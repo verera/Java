@@ -1,4 +1,4 @@
-## OOP: Pemrograman Berorientasi Objek
+## OOP: Object-Oriented Programming
 
 ### Apa itu OOP?
 Pemrograman prosedural adalah tentang menulis prosedur atau metode yang melakukan operasi pada data, sedangkan pemrograman berorientasi objek adalah tentang membuat objek yang berisi data dan metode.
